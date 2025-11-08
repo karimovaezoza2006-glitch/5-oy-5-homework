@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import logo from ".src/assets/img/logo.png";
+import logo from "./src/assets/img/logo.png";
 import { FiLogIn, FiChevronDown, FiPhone, FiGlobe } from "react-icons/fi";
 import AOS from "aos";
 import "aos/dist/aos.css";
