@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Logos from "../static/Api";
+import { Logos } from "../static/Api";
 import AOS from "aos";
 import "aos/dist/aos.css";
 

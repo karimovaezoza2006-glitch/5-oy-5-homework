@@ -31,6 +31,14 @@ export const servicesData = [
   },
 ];
 
+
+import logo1 from "../assets/img/logo1.svg";
+import logo2 from "../assets/img/logo2.svg";
+import logo3 from "../assets/img/logo3.svg";
+import logo4 from "../assets/img/logo4.svg";
+import logo5 from "../assets/img/logo5.svg";
+import logo6 from "../assets/img/logo6.svg";
+
 export const Logos = [
   { id: 1, src: logo1, alt: "Ford" },
   { id: 2, src: logo2, alt: "Nissan" },
@@ -39,3 +47,5 @@ export const Logos = [
   { id: 5, src: logo5, alt: "Hyundai" },
   { id: 6, src: logo6, alt: "Jeep" },
 ];
+
+
