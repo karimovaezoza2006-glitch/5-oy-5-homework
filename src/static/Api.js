@@ -19,17 +19,22 @@ export const servicesData = [
     id: 3,
     title: "Unparalleled customer service",
     text: "We’re here to help. We pride ourselves in our customer service",
-    icon: "..src/assets/img/services3.png",
+    icon: "../assets/img/services3.png",
     aos: "fade-up",
   },
   {
     id: 4,
     title: "No reservation or booking fees",
     text: "No cancellation fees if cancelled 24 hours prior to booking time",
-    icon: "..src/assets/img/services4.png",
+    icon: "../assets/img/services4.png",
     aos: "fade-up",
   },
 ];
+
+import logo1 from "../assets/img/services1.svg";
+import logo2 from "../assets/img/services2.svg";
+import logo3 from "../assets/img/services3.svg";
+import logo4 from "../assets/img/services4.svg";
 
 
 
